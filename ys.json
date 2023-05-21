@@ -97,7 +97,7 @@
             "key": "腾讯资源",
             "name": "️🐧腾讯|影视",
             "type": 1,
-            "api": "https://jihulab.com/fishwork/work/-/raw/main/qq",
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
             "playUrl":"https://jxdp.codermart.net/?url=",
             "searchable": 1,
             "quickSearch": 1,
