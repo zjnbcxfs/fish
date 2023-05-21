@@ -148,7 +148,7 @@
             "filterable": 1,
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
-
+{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {
 			"key": "csp_XBPQ_一龙影视",
@@ -162,7 +162,7 @@
 				"分类": "电影$id-1#剧集$id-2#动漫$id-4#综艺$id-3#纪录$id-5",
 				"分类url": "http://www.yilonghd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"			}
             },
-
+{"key":"一龙","name":"??一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
     
 
@@ -178,18 +178,13 @@
       "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
 
-
+{"key":"free","name":"??Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
 {"key":"csp_xBPQ_自由影视","name":"💢Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/FreeOKxbpq.json"},
 
 
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/jar/xzy1029.jar"},
  
-
-{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
 
 {"key":"mtv_XBPQ_FREEOK","name":"️🐉FREEOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/000/raw/branch/master/XBPQ/FREEOK.json"},
 
@@ -198,6 +193,9 @@
 
 
 {"key":"csp_xpath_tjyy","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/huigutongying.json"},
+{"key":"奇优","name":"??奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
+{"key":"vofx","name":"??Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
+{"key":"淘剧","name":"??淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧影院.json"},
 
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
    
