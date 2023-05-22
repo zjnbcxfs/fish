@@ -527,7 +527,79 @@
       "filterable": 1,
       "ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
     },
-
+  {
+            "key": "csp_XYQHiker_兔小贝",
+            "name": "兔小贝(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/json/兔小贝.json"
+        },
+        {
+            "key": "csp_XYQHiker_兔小贝2",
+            "name": "兔小贝2(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/json/兔小贝2.json"
+        },
+        {
+            "key": "csp_XYQHiker_有声小说吧",
+            "name": "有声小说吧(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/json/有声小说吧.json"
+        },
+        {
+            "key": "csp_XYQHiker_DJ呦呦音乐网",
+            "name": "🎧DJ呦呦音乐网(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/json/DJ呦呦音乐网.json"
+        },
+        {
+            "key": "PQ_ry",
+            "name": "🎧音乐┃视频",
+            "type": 4,
+            "api": "http://120.53.102.254/live?url=https://notabug.org/qizhen15800/My9394/raw/master/live/DIY.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "da_ry",
+            "name": "🎵音乐┃MV",
+            "type": 4,
+            "api": "http://120.53.102.254/dsp/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "js_DJ",
+            "name": "🎧DJ┃摇摆吧",
+            "type": 3,
+            "api": "./YMZ/drpy.min.js",
+            "ext": "./YMZ/js/DJ音乐.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_qf",
+            "name": "清风DJ",
+            "type": 3,
+            "api": "./YMZ/drpy2.min.js",
+            "ext": "./YMZ/js/清风DJ.js"
+        },
 
 
 {"key": "Kuaikan","name": "🈷️快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
