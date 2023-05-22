@@ -535,7 +535,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQ/json/兔小贝.json"
+            "ext": "./xyq/json/兔小贝.json"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -545,7 +545,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQ/json/兔小贝2.json"
+            "ext": "./xyq/json/兔小贝2.json"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -555,7 +555,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQ/json/有声小说吧.json"
+            "ext": "./xyq/json/有声小说吧.json"
         },
         {
             "key": "csp_XYQHiker_DJ呦呦音乐网",
@@ -565,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQ/json/DJ呦呦音乐网.json"
+            "ext": "./xyq/json/DJ呦呦音乐网.json"
         },
         {
             "key": "PQ_ry",
