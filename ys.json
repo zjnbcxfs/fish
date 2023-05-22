@@ -589,16 +589,16 @@
             "key": "js_DJ",
             "name": "🎧DJ┃摇摆吧",
             "type": 3,
-            "api": "./YMZ/drpy.min.js",
-            "ext": "./YMZ/js/DJ音乐.js",
+            "api": "./ymz/drpy.min.js",
+            "ext": "./ymz/js/DJ音乐.js",
             "playerType": "2"
         },
         {
             "key": "drpy_qf",
             "name": "清风DJ",
             "type": 3,
-            "api": "./YMZ/drpy2.min.js",
-            "ext": "./YMZ/js/清风DJ.js"
+            "api": "./ymz/drpy2.min.js",
+            "ext": "./ymz/js/清风DJ.js"
         },
 
 
