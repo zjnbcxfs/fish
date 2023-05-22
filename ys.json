@@ -565,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./xyq/json/DJ呦呦音乐网.json"
+            "ext": "https://raw.iqiq.io/zjnbcxfs/fish/main/xyq/json/DJ%E5%91%A6%E5%91%A6%E9%9F%B3%E4%B9%90%E7%BD%91.json"
         },
         {
             "key": "PQ_ry",
