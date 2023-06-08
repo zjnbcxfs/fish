@@ -4,7 +4,9 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[{"key":"电影盒子","name":"🎞电影盒子(佰杺园)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
+"sites":[
+
+{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {
 			"key": "csp_XBPQ_一龙影视",
@@ -169,7 +171,7 @@
 {"key": "csp_Bd","name": "bid(佰杺园)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key": "Vidhub","name": "Vidhub┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/Vidhub.json"},
  {"key": "APP影院","name": "APP┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/APP%E5%BD%B1%E8%A7%86.json"},
-{"key":"小苹果","name":"🐞小苹果(佰杺园)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"在线之家","name":"🐞在线之家(佰杺园)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Cokemv",	"name": "Cokemv(佰杺园","type": 3,	"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1	},
 { "key": "csp_appys_酷影","name": "酷影┃影视","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ys.realdou.cn/api.php/app/"},
