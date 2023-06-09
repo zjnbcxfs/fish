@@ -4,12 +4,12 @@
 
 
 {
-	"spider": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar;md5;e0d4be3808591fe420eddc60ba72abf9",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/zjnbcxfs/fish/main/YSC.jar;md5;e0d4be3808591fe420eddc60ba72abf9",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/along6688/JK/main/6.json",
+		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/zjnbcxfs/fish/main/6.json",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
