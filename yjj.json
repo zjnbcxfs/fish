@@ -65,23 +65,9 @@
 
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/jar/xzy1029.jar"},
  
-
-{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
-
 {"key":"mtv_XBPQ_FREEOK","name":"️🐉FREEOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/000/raw/branch/master/XBPQ/FREEOK.json"},
 
 {"key":"drpy_js_FreeOK","name":"🐉FreeOK ","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/FreeOK.js"},
-
-
-
-
-
-
-
-
 
 
 
@@ -92,9 +78,7 @@
 {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/mangguo.js"},
 {"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"},
 {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rul2oe7c4.bkt.clouddn.com/py/py_xigua.py"},
-{"key":"py_cctv","name": "🔥CCTV","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://rul2oe7c4.bkt.clouddn.com/py/py_cctv.py"},
-{"key":"csp_WoGG","name": "👽玩偶哥哥","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://rul2oe7c4.bkt.clouddn.com/ali.jar"},
+
 {"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/aliyunpan.json"},
 {"key":"4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/4KHDR.json"},
 {"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/bulei.json"},
