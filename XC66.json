@@ -224,21 +224,11 @@
 {"key": "zy_天空影视", "name": "天空资源", "type": 1, "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "连续剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "综艺", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "动漫", "国产动漫", "日韩动漫", "欧美动漫", "其他剧" ] },
 //{"key": "zy_天空资源1", "name": "天空资源2", "type": 1, "api": "http://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "连续剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "综艺", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "动漫", "国产动漫", "日韩动漫", "欧美动漫", "其他剧" ] },
 
-{"key":"csp_ole","name":"欧乐影院","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "csp_xBPQ_胖虎","name": "胖虎影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/panghu.json","m3u8ads": "hd.youyhn.com"},
-{"key":"dr_007ys","name": "零七影视","type": 3,"api": "http://8.210.232.168/tv/box/js/lib/drpy2.min.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://8.210.232.168/tv/box/js/007影视.js"},
-
-
-
-{"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-{"key":"dr_Ddys","name":"秒播┃欧美日韩","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.js"},
-{"key":"csp_AppTT2","name":"秒播┃图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.9.101:7771"},
 
-
- 
-{"key":"csp_酷影","name":"酷影TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 
 
 {"key":"快看","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
