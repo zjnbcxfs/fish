@@ -223,7 +223,7 @@
 
 {"key": "csp_xBPQ_胖虎","name": "胖虎影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/panghu.json","m3u8ads": "hd.youyhn.com"},
 {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
-{"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
 {"key": "4KHDR","name": "4K HDR影视","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/4KHDR.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/spider.jar"},
 
 
