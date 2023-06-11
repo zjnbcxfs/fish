@@ -38,7 +38,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/fishworkyy/mao/raw/master/json/FREEOK.json",
-      "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
+      "jar": "https://gitee.com/fishworkyy/mao/raw/master/jar/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
 
 
