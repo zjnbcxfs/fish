@@ -28,7 +28,7 @@
     
 {"key": "22","name": "✨一龙影视","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://www.yilonghd.com/type/id-{cateId}-{catePg}.html"},
 
-{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/一龙.json"},
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"https://gitee.com/fishworkyy/mao/raw/master/json/%E4%B8%80%E9%BE%99.json"},
 {
       "key": "csp_XYQHiker_FREEOK",
       "name": "🎠┃Free┃影视",
