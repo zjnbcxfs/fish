@@ -28,7 +28,7 @@
     
 {"key": "22","name": "✨一龙影视","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://www.yilonghd.com/type/id-{cateId}-{catePg}.html"},
 
-
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/一龙.json"},
 {
       "key": "csp_XYQHiker_FREEOK",
       "name": "🎠┃Free┃影视",
@@ -101,11 +101,18 @@
 {"key":"drpy_异果","name":"奇艺官源","type":3,"api":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},	
 
 
-{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/fishworkyy/mao/raw/master/js/drpy2.min.js","ext":"https://gitee.com/fishworkyy/mao/raw/master/js/aiqiyi.js"},
-{"key":"优酷","name":"👑优酷(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/youku.js"},
-{"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/tengxun.js"},
-{"key":"芒果","name":"🥭芒果(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/mangguo.js"},
-{"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"},
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/tengxun.js"},
+
+{"key":"爱奇艺","name":"💜奇艺┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/iqy.js"},
+
+{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/youku.js"},
+
+{"key":"360","name":"🔍360┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/360.js"},
+
+{"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/sougou.js"},
+
+{"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/mangguo.js"},
+
 
 {"key":"东方影视", "name": "🐲东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 {"key":"爱迪影视","name":"💘爱迪影视","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
