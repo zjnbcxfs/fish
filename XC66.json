@@ -92,17 +92,13 @@
 {"key":"drpy_异果","name":"奇艺官源","type":3,"api":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},	
 
 
-{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/tengxun.js"},
 
-{"key":"爱奇艺","name":"💜奇艺┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/iqy.js"},
+{"key": "dr_优酷","name": "优酷(drpy)","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"},
+{"key": "dr_腾云驾雾","name": "腾讯(drpy)","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/腾云驾雾.js"},
+{"key": "dr_奇珍异兽","name": "爱奇艺(drpy)","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"},
+{"key": "dr_百忙无果","name": "芒果(drpy)","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/百忙无果.js"},
+{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/菜狗.js"},
 
-{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/youku.js"},
-
-{"key":"360","name":"🔍360┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/360.js"},
-
-{"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/sougou.js"},
-
-{"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/mangguo.js"},
 
 
 {"key":"东方影视", "name": "🐲东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
@@ -112,7 +108,9 @@
 	
 {"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_SP360","name":"360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/360xbpq.json"},
-{
+{"key": "dr_360影视","name": "360(drpy)","type": 3,"api": "https://notabug.org/lwm212/boxx/raw/master/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/360影视.js"},
+	
+	{
       "key": "csp_xpath_球迷2",
       "name": "⚽🏀球赛",
       "type": 3,
