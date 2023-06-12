@@ -101,7 +101,7 @@
 {"key":"drpy_异果","name":"奇艺官源","type":3,"api":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},	
 
 
-{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/aiqiyi.js"},
+{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/fishworkyy/mao/raw/master/js/drpy2.min.js","ext":"https://gitee.com/fishworkyy/mao/raw/master/js/aiqiyi.js"},
 {"key":"优酷","name":"👑优酷(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/youku.js"},
 {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/tengxun.js"},
 {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/mangguo.js"},
