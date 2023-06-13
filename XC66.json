@@ -48,7 +48,6 @@
 
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
 
-{"key":"drpy_js_FreeOK","name":"🐉FreeOK ","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/FreeOK.js"},
 
 
  
