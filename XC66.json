@@ -49,7 +49,7 @@
 
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
 
-
+{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
 
  
 
@@ -68,7 +68,7 @@
 {"key":"drjs_91free","name":"👺91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
 
 {"key":"drjs_花猫TV","name":"👺花猫TV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/花猫TV.js"},
-{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
+
 
 {"key":"drjs_喜马拉雅","name":"👺喜马拉雅(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/喜马拉雅.js"},
 {"key":"drjs_有声听书网","name":"👺有声听书网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/有声听书网.js"},
