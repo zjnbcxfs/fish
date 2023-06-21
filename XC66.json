@@ -86,7 +86,9 @@
 {"key":"drjs_六月听书","name":"👺六月听书(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/六月听书.js"},
 {"key":"drjs_博看听书","name":"👺博看听书(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/博看听书.js"},
 {"key":"drjs_有声小说吧","name":"👺有声小说吧(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/有声小说吧.js"},
-
+{"key":"drpy_js_海洋听书","name":"🎒海洋听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/海洋听书.js"},
+{"key":"drpy_js_中华听书网","name":"🔊中华听书网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/中华听书网.js"},
+{"key":"drpy_js_爱上你听书网","name":"🛸爱上你听书网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/爱上你听书网.js"},
 {"key":"drjs_相声随身听","name":"👺相声随身听(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/相声随身听.js"},
 {"key":"drjs_评书随身听","name":"👺评书随身听(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/评书随身听.js"},
 
