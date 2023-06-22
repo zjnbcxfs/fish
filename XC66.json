@@ -96,7 +96,22 @@
 				"分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
 			}
 		},
-
+{
+			"key": "热播库",
+			"name": "热播┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "http://xhww.fun:63/小米/源/热播.json"
+		},
+		{
+			"key": "蚂蚁",
+			"name": "蚂蚁┃BPQ",
+			"type": 3,
+			"jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340",
+			"api": "csp_XBPQ",
+			"ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
+		},
 {"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
