@@ -50,6 +50,14 @@
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
 
 {"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
+{"key": "csp_XYQHiker_qiyou","name": "「奇优影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/奇优影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
+
+{"key": "csp_xBPQ_奇优影院","name": "「奇优影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
+
+
+{"key": "csp_xpath_tjyy","name": "「奇优资源」‖影剧‖","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/huigutongying.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
+
+	
 {
 			"key": "saohuo",
 			"name": "骚火┃BPQ",
@@ -136,7 +144,9 @@
 {"key":"drjs_91free","name":"👺91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
 
 {"key":"drjs_花猫TV","name":"👺花猫TV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/花猫TV.js"},
-
+{"key":"东方影视", "name": "🐲东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
+{"key":"爱迪影视","name":"💘爱迪影视","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
+{"key":"萌蛋蛋","name":"🥚萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 
 {"key":"drjs_喜马拉雅","name":"👺喜马拉雅(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/喜马拉雅.js"},
 {"key":"drjs_有声听书网","name":"👺有声听书网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/有声听书网.js"},
@@ -182,9 +192,7 @@
 
 
 
-{"key":"东方影视", "name": "🐲东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
-{"key":"爱迪影视","name":"💘爱迪影视","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
-{"key":"萌蛋蛋","name":"🥚萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},	
+	
 	
 	
 {"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -316,12 +324,7 @@
 {"key":"快看","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xpath_lezhutv","name":"乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/lezhutv.json"},
-{"key": "csp_XYQHiker_qiyou","name": "「奇优影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/奇优影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
-{"key": "csp_xBPQ_奇优影院","name": "「奇优影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-
-{"key": "csp_xpath_tjyy","name": "「奇优资源」‖影剧‖","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/huigutongying.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
 {"key":"SixV","name":"「 6V电影 」‖影剧‖","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/fm1.jar"},
 {"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "ext": "https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json","jar":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/jar/xzy1029.jar"},
