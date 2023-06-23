@@ -282,15 +282,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
- {
-            "key": "MV_vod",
-            "name": "明星┃MV",
-            "type": 1,
-            "api": "https://mv.xn--sss604efuw.ml/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 {"key":"drjs_MV库","name":"👺MV库(DRPY)","type":3,"api":"https://download.kstore.space/download/4022/lf_live_min.js","ext":"https://gitee.com/fishworkyy/work/raw/master/lf_live_min3.txt"},
     {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 {"key":"HDMOLI","name":"HDMOLI","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
