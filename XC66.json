@@ -44,12 +44,12 @@
 
 
 
-{"key":"csp_xBPQ_自由影视","name":"💢Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zjnbcxfs/fish/main/XBPQ/freeok.json"},
+//{"key":"csp_xBPQ_自由影视","name":"💢Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zjnbcxfs/fish/main/XBPQ/freeok.json"},
 
 
 {"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
 
-{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
+//{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
 //{"key": "csp_XYQHiker_qiyou","name": "「奇优影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/奇优影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
 //{"key": "csp_xBPQ_奇优影院","name": "「奇优影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
