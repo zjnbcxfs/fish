@@ -117,15 +117,15 @@
 			"api": "csp_XBPQ",
 			"ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
 		},
-{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XYQH/电影港.json","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/xyq.jar"},
+//{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XYQH/电影港.json","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/xyq.jar"},
 
 
 
-{
+//{
 			"key":"csp_侦探TV",
 			"name":"🕵️┃侦探┃盒子",
 			"type":3,
@@ -135,7 +135,7 @@
 			"filterable":1,
 			"ext":"http://longfei.lfytyl.com/api.php/app/"
 		},	
-{"key": "csp_XYQHiker_电影盒子","name":"💑电影盒子(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影盒子.json"},
+//{"key": "csp_XYQHiker_电影盒子","name":"💑电影盒子(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影盒子.json"},
 
 
 {"key":"drjs_91free","name":"👺91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
