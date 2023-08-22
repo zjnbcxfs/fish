@@ -41,9 +41,9 @@
       "jar": "https://gitee.com/fishworkyy/mao/raw/master/jar/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
 
-{"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
+//{"key": "csp_freeok","name": "️🐲FreeOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://gitee.com/fishworkyy/mao/raw/master/jar/xzy1029.jar"},
 
-{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
+//{"key":"drjs_FreeOK","name":"👺FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
 //{"key": "csp_XYQHiker_qiyou","name": "「奇优影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/奇优影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
 //{"key": "csp_xBPQ_奇优影院","name": "「奇优影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
@@ -100,10 +100,10 @@
 				"分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
 			}
 		},
-{"key": "PPY","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
+//{"key": "PPY","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
 		
 	
-	{
+	//{
 			"key": "蚂蚁",
 			"name": "蚂蚁┃BPQ",
 			"type": 3,
@@ -111,15 +111,15 @@
 			"api": "csp_XBPQ",
 			"ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
 		},
-{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Auete","name":"🏝Aue(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"欧美日韩","type":3,"api":"csp_Ddrk","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XYQH/电影港.json","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/xyq.jar"},
+//{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XYQH/电影港.json","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/xyq.jar"},
 
 
 
-{
+//{
 			"key":"csp_侦探TV",
 			"name":"🕵️┃侦探┃盒子",
 			"type":3,
@@ -129,10 +129,10 @@
 			"filterable":1,
 			"ext":"http://longfei.lfytyl.com/api.php/app/"
 		},	
-{"key": "csp_XYQHiker_电影盒子","name":"💑电影盒子(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影盒子.json"},
+//{"key": "csp_XYQHiker_电影盒子","name":"💑电影盒子(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影盒子.json"},
 
 
-{"key":"drjs_91free","name":"👺91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
+//{"key":"drjs_91free","name":"👺91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
 
 
 
