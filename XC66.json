@@ -202,7 +202,7 @@
 	
 {"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_SP360","name":"360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/360xbpq.json"},
-
+{"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/fishworkyy/mao/raw/master/json/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json","jar":"https://gitee.com/io9/java/raw/master/jar/hccx0821.jar"},
 	{
       "key": "csp_xpath_球迷2",
       "name": "⚽🏀球赛",
@@ -213,16 +213,7 @@
       "filterable": 1,
       "ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
     },
-    {
-      "key": "音乐",
-      "name": "🎤音乐现场",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/4022/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
-    },
+    
     {
       "key": "热舞",
       "name": "💃女团热舞",
